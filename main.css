@@ -1,0 +1,29 @@
+body
+{
+	margin:0;
+	background: turquoise;
+}
+header h1{
+	margin: 0;
+	background: #800;
+	color: white;
+	padding: 10px;
+}
+ ul
+{
+	margin: 0;
+}
+ ul li
+{
+	  background: white ; 
+	  color: red ; 
+	  display: inline-block; 
+	  float: left; 
+	  list-style-type: none; 
+	  margin: 5px ;
+	  padding: 5px 20px;
+}
+ul li a
+{
+	color:black;
+}
